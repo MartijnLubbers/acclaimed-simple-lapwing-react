@@ -1,0 +1,328 @@
+.diensten-layout251 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(217, 217, 217, 0.3);
+}
+ 
+.diensten-max-width {
+  gap: var(--dl-space-space-threeunits);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.diensten-column {
+  gap: var(--dl-space-space-halfunit);
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.diensten-content1 {
+  gap: 48px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.diensten-row1 {
+  align-items: flex-start;
+}
+ 
+.diensten-feature11 {
+  flex: 1;
+}
+ 
+.diensten-feature1-image1 {
+  width: 325px;
+  height: 244px;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://images.unsplash.com/photo-1574169208507-84376144848b?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDN8fGFic3RyYWN0fGVufDB8fHx8MTcxMDg3MDkzMHww&ixlib=rb-4.0.3&w=1400');
+  background-position: center;
+}
+ 
+.diensten-image1 {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+ 
+.diensten-content2 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.diensten-feature21 {
+  flex: 1;
+}
+ 
+.diensten-feature2-image1 {
+  width: 325px;
+  height: 244px;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://images.unsplash.com/photo-1563089145-599997674d42?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDR8fGFic3RyYWN0fGVufDB8fHx8MTcxMDg3MDkzMHww&ixlib=rb-4.0.3&h=300');
+  background-position: center;
+}
+ 
+.diensten-image2 {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+ 
+.diensten-content3 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.diensten-feature31 {
+  flex: 1;
+}
+ 
+.diensten-feature3-image1 {
+  width: 325px;
+  height: 244px;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDEwfHxhYnN0cmFjdHxlbnwwfHx8fDE3MTA4NzA5MzB8MA&ixlib=rb-4.0.3&h=300');
+  background-position: center;
+}
+ 
+.diensten-image3 {
+  width: 100%;
+  height: 285px;
+  object-fit: cover;
+}
+ 
+.diensten-content4 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.diensten-content5 {
+  gap: 48px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.diensten-row2 {
+  height: 503px;
+  align-items: flex-start;
+}
+ 
+.diensten-feature12 {
+  flex: 1;
+}
+ 
+.diensten-feature1-image2 {
+  width: 325px;
+  height: 244px;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://images.unsplash.com/photo-1574169208507-84376144848b?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDN8fGFic3RyYWN0fGVufDB8fHx8MTcxMDg3MDkzMHww&ixlib=rb-4.0.3&w=1400');
+  background-position: center;
+}
+ 
+.diensten-image4 {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+ 
+.diensten-content6 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.diensten-feature22 {
+  flex: 1;
+}
+ 
+.diensten-feature2-image2 {
+  width: 325px;
+  height: 244px;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://images.unsplash.com/photo-1563089145-599997674d42?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDR8fGFic3RyYWN0fGVufDB8fHx8MTcxMDg3MDkzMHww&ixlib=rb-4.0.3&h=300');
+  background-position: center;
+}
+ 
+.diensten-image5 {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+ 
+.diensten-content7 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.diensten-feature32 {
+  flex: 1;
+}
+ 
+.diensten-feature3-image2 {
+  width: 325px;
+  height: 244px;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDEwfHxhYnN0cmFjdHxlbnwwfHx8fDE3MTA4NzA5MzB8MA&ixlib=rb-4.0.3&h=300');
+  background-position: center;
+}
+ 
+.diensten-image6 {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+ 
+.diensten-content8 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.diensten-text11 {
+  display: inline-block;
+}
+ 
+.diensten-text12 {
+  display: inline-block;
+}
+ 
+.diensten-text13 {
+  display: inline-block;
+}
+ 
+.diensten-text14 {
+  display: inline-block;
+}
+ 
+.diensten-text15 {
+  display: inline-block;
+}
+ 
+.diensten-text16 {
+  display: inline-block;
+}
+ 
+.diensten-text17 {
+  display: inline-block;
+}
+ 
+.diensten-text18 {
+  display: inline-block;
+}
+ 
+.diensten-text19 {
+  display: inline-block;
+}
+ 
+.diensten-text20 {
+  display: inline-block;
+}
+ 
+.diensten-text24 {
+  display: inline-block;
+}
+ 
+.diensten-text25 {
+  display: inline-block;
+}
+ 
+.diensten-text26 {
+  display: inline-block;
+}
+ 
+.diensten-text27 {
+  color: var(--dl-color-theme-neutral-dark);
+  display: inline-block;
+  text-transform: lowercase;
+  text-decoration: underline;
+}
+ 
+@media(max-width: 991px) {
+  .diensten-section-title {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .diensten-feature1-image1 {
+    height: 260px;
+  }
+  .diensten-feature2-image1 {
+    height: 260px;
+  }
+  .diensten-feature3-image1 {
+    height: 260px;
+  }
+  .diensten-feature1-image2 {
+    height: 260px;
+  }
+  .diensten-feature2-image2 {
+    height: 260px;
+  }
+  .diensten-feature3-image2 {
+    height: 260px;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .diensten-column {
+    width: 100%;
+  }
+  .diensten-text10 {
+    text-align: center;
+  }
+  .diensten-row1 {
+    flex-direction: column;
+  }
+  .diensten-feature1-image1 {
+    width: 100%;
+  }
+  .diensten-feature21 {
+    width: auto;
+  }
+  .diensten-feature2-image1 {
+    width: 100%;
+  }
+  .diensten-feature31 {
+    width: auto;
+  }
+  .diensten-row2 {
+    flex-direction: column;
+  }
+  .diensten-feature1-image2 {
+    width: 100%;
+  }
+  .diensten-feature22 {
+    width: auto;
+  }
+  .diensten-feature2-image2 {
+    width: 100%;
+  }
+  .diensten-feature32 {
+    width: auto;
+  }
+}
